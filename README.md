@@ -12,4 +12,4 @@ Steps -
 If some error shows up, google how to add g++ as an environment PATH variable.
 8. Now open Sublime text and goto Tools -> Build System -> New Build System...
 9. Copy the code from c++14-build-system-windows and paste it in there and save as "c++14" and select the same from the sub context menu of Build System.
-10. Restart and Happy Coding!!!
+10. Restart Sublime text and Happy Coding!!!
